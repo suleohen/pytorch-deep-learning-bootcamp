@@ -21,3 +21,39 @@ Aşağıdaki adımları dikkatle izle 👇
 2. `week1/` klasörüne gir  
 3. Kendi adınla bir klasör oluştur (örnek: `sule_yilmaz`)  
 4. İçine ödev dosyanı ekle  
+
+
+---
+
+## 💾 3. Adım: Dosyanı Yükle
+
+1. “**Add file → Upload files**” seçeneğine tıkla  
+2. Ödev dosyanı sürükle bırak  
+3. En altta “**Commit changes**” tuşuna bas
+
+---
+
+## 🔁 4. Adım: Pull Request (PR) Aç
+
+1. Ana repo sayfasına geri dön (`bootcamp-org/pytorch-bootcamp-assignments`)  
+2. Üstte “**Compare & pull request**” butonu göreceksin  
+3. Tıklayıp açıklama kısmına adını yaz  
+4. “**Create Pull Request**” tuşuna bas 🎉
+
+Eğitmen onayladıktan sonra ödevin ana repoya eklenecek.
+
+---
+
+## 🔗 5. Adım: (İsteğe Bağlı) Ödev Linkini Gönder
+
+Eğitmen isterse, PR linkini Google Form veya Discord üzerinden paylaşabilirsin.  
+
+## 💬 Yardım Lazım mı?
+
+Zorlandığın veya kafanın karıştığı bir durumda **eğitim birimimize ulaşabilirsin.**  
+📲 [WhatsApp üzerinden bize ulaşmak için tıkla.](https://wa.me/905XXXXXXXXX)
+
+---
+
+🎯 Hepsi bu kadar!  
+Artık PyTorch Bootcamp ödev teslim sistemine hazırsın 🚀
